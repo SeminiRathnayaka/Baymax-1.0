@@ -4,7 +4,7 @@
 
 ---
 
-## 💡 What is Baymax?
+##  What is Baymax?
 
 Baymax is a personal AI health assistant inspired by the lovable robot from Big Hero 6.
 He listens, understands, and gently guides you through your health concerns —
@@ -14,7 +14,7 @@ No drama. No panic. Just care. 🤍
 
 ---
 
-## ✨ Features
+##  Features
 
 - 💬 Chat with Baymax about your health concerns
 - 🌡️ Describes symptoms and gives gentle guidance  
@@ -25,7 +25,7 @@ No drama. No panic. Just care. 🤍
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - Python
 - Google Gemini API
@@ -33,7 +33,7 @@ No drama. No panic. Just care. 🤍
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # Activate virtual environment
@@ -45,7 +45,7 @@ python baymax.py
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 | Phase | Feature | Status |
 |-------|---------|--------|
@@ -66,7 +66,7 @@ Always consult a real doctor for serious health concerns.
 
 ---
 
-## 👩‍💻 Developer
+##  Developer
 
 **Semini Rathnayaka**
 Year 1 BHIT Student — GWUIM, Sri Lanka 
