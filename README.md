@@ -7,7 +7,7 @@
 ##  What is Baymax?
 
 Baymax is a personal AI health assistant inspired by the lovable robot from Big Hero 6.
-He listens, understands, and gently guides you through your health concerns —
+He listens, understands, and gently guides you through your health concerns 
 in simple, calm, and friendly English.
 
 No drama. No panic. Just care. 🤍
@@ -69,7 +69,7 @@ Always consult a real doctor for serious health concerns.
 ##  Developer
 
 **Semini Rathnayaka**
-Year 1 BHIT Student — GWUIM, Sri Lanka 
+Year 1 BHIT Student > GWUIM, Sri Lanka 
 *Building AI that actually helps people.* 💪
 
 ---
