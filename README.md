@@ -51,7 +51,7 @@ python baymax.py
 |-------|---------|--------|
 | Phase 1 | Foundation Setup | ✅ Done |
 | Phase 2 | Chatbot Core (text) | ✅ Done |
-| Phase 3 | Voice Assistant | 🔄 Coming Soon |
+| Phase 3 | Voice Assistant | ✅ Done |
 | Phase 4 | Symptom Checker | 🔄 Coming Soon |
 | Phase 5 | Medical Report Explainer | 🔄 Coming Soon |
 | Phase 6 | Database & Memory | 🔄 Coming Soon |
