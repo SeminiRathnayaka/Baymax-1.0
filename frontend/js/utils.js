@@ -1,1 +1,2 @@
-// Helpers will go here
+// Helpers
+// Handles: format timestamp, sanitize input, local storage

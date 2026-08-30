@@ -1,1 +1,2 @@
-// Login/register logic will go here
+// Login/register logic
+// Handles: form submission, token storage, redirect to chat

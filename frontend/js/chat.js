@@ -1,1 +1,2 @@
-// Chat UI logic will go here
+// Chat UI logic
+// Handles: send message, display messages, thinking state, error state, emergency detection
